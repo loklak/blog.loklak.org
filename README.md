@@ -1,2 +1,2 @@
-# labs.loklak.org
-Labs and Ideas for loklak development
+# blog.loklak.org
+forward to http://blog.loklak.net
